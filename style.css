@@ -1,0 +1,133 @@
+body{
+    font-family:"poppins" ,sans-serif;
+    margin: 0%;
+}
+
+.mainmenu{
+    text-align: right;
+    font-family: "poppins", sans-serif;
+    font-weight:400;
+    font-size: 14px;
+    padding:20px;
+    color:red;
+}
+
+.mainmenu a {
+    text-decoration:none;
+}
+
+h1{
+    font-size: 40px;
+    color:black;
+}
+h2{
+    font-size:30px;
+    color:black
+}
+.link-button{
+    text-decoration: none ;
+    background-image: linear-gradient(red,black);
+    color:rgb(255, 255, 254);
+    padding:10px 20px ;
+    border-radius: 5px;
+    font-weight: 700;
+    margin:5%;
+}
+.div-settings{
+    width: 40%;
+    float:left;
+    margin:0% 0% 10% 2%;
+    padding-left:2%;
+}
+.div-settings img{
+    width:100%;
+}
+
+.link-button2{
+    text-decoration: none;
+}
+.div-portfolio{
+    width: 25%;
+    margin:5% 2%;
+    padding:0 2%;
+    float:left;
+    background-color: white;
+    border-radius: 5%;
+}
+.div-portfolio img{
+    width:100%;
+}
+
+section{
+    height: 100%;
+    overflow: hidden;
+}
+
+.sec-portfolio{
+    background-color:rgb(244, 245, 246);
+    border-radius: 20px;
+}
+#div-cont{
+    text-align: center;
+}
+
+.wi-bg .work-inquiry {
+    margin-left: 100px;
+    width: 900px;
+    height: 224px;
+    background: url("images/bkr.png");
+    background-size: cover;
+    margin: auto;
+    background-repeat: no-repeat;
+    margin-top: 80px;
+}
+.work-inquiry .work-inquiry-text {
+    color: #fff;
+    font-weight: bold;
+    float: left;
+    font-size: 45px;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.work-inquiry .cmd {
+    float: right;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 5px;
+    margin-top: 75px;
+    margin-right: 60px;
+    text-decoration: none;
+    background: tomato;
+}
+.work-inquiry .cmd a {
+    color: #fff;
+}
+.lastest{ color:red;
+}
+
+.design{
+    color:tomato
+}
+
+.contact-design{
+    text-align:center;
+    margin:0%;
+}
+
+.why-us {
+    text-align: center;
+}
+
+.why-us + div ul {
+    text-align: center;
+    list-style: none;
+}
+
+.connect {
+    text-align: center;
+    margin: 80px;
+    border: 1px solid #ddd;
+    padding: 10px 30px 20px;
+}
